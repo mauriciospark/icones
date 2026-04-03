@@ -4,7 +4,7 @@ Uma biblioteca centralizada com mais de 396 ícones de tecnologias, linguagens d
 
 ### 🚀 Como utilizar os ícones
 
-Para usar qualquer ícone em seu projeto, utilize a estrutura do link abaixo, substituindo **`NOME_DO_ARQUIVO.png`** pelo nome da imagem que você deseja (ex: `csharp.png`, `react_native.png`, `3d.png`):
+Para usar qualquer ícone em seu projeto, utilize a estrutura do link abaixo, substituindo **`NOME_DO_ARQUIVO.png`** pelo nome da imagem que você deseja:
 
 `https://raw.githubusercontent.com/mauriciospark/icones/main/NOME_DO_ARQUIVO.png`
 
